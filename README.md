@@ -4,6 +4,8 @@
 
 浮在云海上的博丽神社：夜色、樱花、鸟居、石灯笼、注连绳、铃与赛钱箱、绕社旋转的阴阳玉，以及白天与黑夜两套完整配色。
 
+**在线试玩**：https://nlzdyqwq.github.io/BoLiShenSheYanShihtml/ （GitHub Pages，加载后即自动开场）
+
 **下载 [index.html](index.html) 双击即可离线运行**，无需服务器、无外部资源、无需联网。
 
 ![博丽神社夜景](preview.png)
